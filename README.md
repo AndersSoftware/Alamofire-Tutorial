@@ -1,6 +1,6 @@
-#Alamofire Swift Tutorial: Build Robust iOS Networking with Less Code
+# Alamofire Swift Tutorial: Build Robust iOS Networking with Less Code
 A complete, production-ready iOS networking implementation using Alamofire, demonstrating modern Swift development patterns, secure authentication, and enterprise-grade error handling.
-##📱 Features
+## 📱 Features
 Complete API Manager - Singleton pattern with automatic authentication and retry logic
 
 Secure Token Storage - iOS Keychain integration for encrypted credential management
@@ -13,7 +13,7 @@ Thread-Safe Operations - Actor-based attempt tracking for concurrent requests
 
 Structured Error Handling - Comprehensive error types for better debugging
 
-##🏗️ Architecture
+## 🏗️ Architecture
 This project implements enterprise-grade networking patterns with security-first design and maintainable code organization.
 
 Key Components
